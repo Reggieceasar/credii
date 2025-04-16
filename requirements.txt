@@ -2,8 +2,7 @@ streamlit
 pandas
 numpy
 joblib
+gdown
 fpdf
-shap
-
 
 
